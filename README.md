@@ -6,7 +6,7 @@ I’m a passionate and dedicated BS Information Technology student at New Era Un
 
 ## 🎓 Education  
 - **BS Information Technology**  
-  New Era University  
+  [New Era University](https://neu.edu.ph/)  
   2024 – Present
 
 ## 📜 Certifications  
