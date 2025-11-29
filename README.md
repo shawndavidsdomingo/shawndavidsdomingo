@@ -1,6 +1,8 @@
 # Hi! I am Shawn David S. Domingo
-Welcome to my GitHub profile! I am a dedicated BS Information Technology student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
 
+**BS Information Technology Student | Aspiring Software Developer & Problem Solver**
+
+I'm a passionate and dedicated BS Information Technology student with a strong interest in building efficient and meaningful software solutions. I thrive on the challenges of problem-solving and am committed to continuous learning in the ever-evolving tech landscape.
 
 ## 🎓 Education  
 - **BS Information Technology**  
@@ -12,11 +14,19 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 - [TESDA NATIONAL CERTIFICATE II in Computer Systems Servicing](https://shawndavidsdomingo.github.io/shawndavidsdomingo/Files/NC2.pdf)
 
 ## 🛠 Skill Sets  
-- **Programming:** Java, JavaScript  
-- **Databases:** SQL  
-- **Tools:** Lucidchart, Eclipse, IntelliJ IDEA, VS Code
-- **Hard Skills:** Computer Maintenance
+- **Languages & Frameworks:**
+`Java` `JavaScript` `HTML/CSS` `Node.js`
 
-## 📬 Let’s Connect!  
-- **LinkedIn:** [Shawn David Domingo](https://www.linkedin.com/in/shawn-david-domingo-806119314/)
-- **Email:** shawndavidsobremontedomingo@gmail.com  
+- **Databases & Tools:**
+`SQL` `DB2` `VS Code` `Figma` `Eclipse` `IntelliJ IDEA`
+
+- **Hard Skills:**
+`Computer and Network Maintenance`
+
+## 📫 Let's Connect!
+I'm always open to discussing technology, collaboration on interesting projects, or new opportunities.
+
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-david-domingo-806119314/)
+*   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawndavidsobremontedomingo@gmail.com)
+
+
