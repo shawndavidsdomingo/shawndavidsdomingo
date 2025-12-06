@@ -11,6 +11,7 @@ I’m a passionate and dedicated BS Information Technology student at New Era Un
 
 ## 📜 Certifications  
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/d733895265f04e76a355a3dccd17b518) - Cognitive Class
+- [**OCI Foundations Associate (2025)**]() - Oracle
 - [**National Certificate II in Computer Systems Servicing**](https://shawndavidsdomingo.github.io/shawndavidsdomingo/Files/NC2.pdf) - TESDA
 
 ## 🛠 Skill Sets  
