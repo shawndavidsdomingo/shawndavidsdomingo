@@ -15,6 +15,7 @@ I’m a passionate and dedicated BS Information Technology student at New Era Un
 - [**Oracle Data Platform Foundations Associate (2025)**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=19823F4443E801CDD58AD0ACA9BA9443FF33F172E4F73C6AC7B94D44C8411A5F) - Oracle
 - [**OCI AI Foundations Associate (2025)**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0EAAD4BD3408BFC5489B478205B073B0B5665430DC1694BAD13E49D480C8C14) - Oracle
 - [**National Certificate II in Computer Systems Servicing**](https://shawndavidsdomingo.github.io/shawndavidsdomingo/Files/NC2.pdf) - TESDA
+- [**Gemini Certified University Student**](https://edu.google.accredible.com/9a8cd621-926a-42f4-813f-e442e0a2b194#acc.zaF0Kogw) - TESDA
 
 ## 🛠 Skill Sets  
 - **Languages & Frameworks:**
