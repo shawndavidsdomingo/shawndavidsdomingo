@@ -6,7 +6,7 @@ I’m a passionate and dedicated BS Information Technology student at **New Era 
 
 ---
 
-## 🎓 Education
+## Education
 
 - **BS Information Technology**  
   [New Era University](https://neu.edu.ph/)  
@@ -14,7 +14,7 @@ I’m a passionate and dedicated BS Information Technology student at **New Era 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/d733895265f04e76a355a3dccd17b518) - **Cognitive Class**  
 - [**OCI Foundations Associate 2025**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0DDA990B9D5CAA213629595846770B8D8E8B23924F21A7F0F630B464087A408) - **Oracle**  
@@ -26,22 +26,24 @@ I’m a passionate and dedicated BS Information Technology student at **New Era 
 
 ---
 
-## 🛠 Skill Sets
+## Skill Sets
 
 **Languages and Frameworks**  
-`Java` `JavaScript` `HTML/CSS` `Node.js` `TypeScript`
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 **Databases and Tools**  
-`SQL` `DB2` `VS Code` `Figma` `Eclipse` `IntelliJ IDEA` `MongoDB`
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/) [![DB2](https://img.shields.io/badge/DB2-006699?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/db2) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://www.eclipse.org) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/idea)
 
 **Systems and Infrastructure**  
-`Computer Systems Servicing` `Network Maintenance`
+[![Computer Systems Servicing](https://img.shields.io/badge/Computer_Systems_Servicing-0A66C2?style=for-the-badge&logo=tesda&logoColor=white)](https://shawndavidsdomingo.github.io/shawndavidsdomingo/Files/NC2.pdf) [![Network Maintenance](https://img.shields.io/badge/Network_Maintenance-1A73E8?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always open to discussing technology, collaborating on interesting projects, or exploring new opportunities.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-david-domingo-806119314/)  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawndavidsobremontedomingo@gmail.com)
+
+---
