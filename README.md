@@ -20,7 +20,7 @@ I’m a passionate and dedicated BS Information Technology student at New Era Un
 
 ## 🛠 Skill Sets  
 - **Languages & Frameworks:**
-`Java` `JavaScript` `HTML/CSS` `Node.js`
+`Java` `JavaScript` `HTML/CSS` `Node.js` `TypeScript`
 
 - **Databases & Tools:**
 `SQL` `DB2` `VS Code` `Figma` `Eclipse` `IntelliJ IDEA` `MongoDB`
