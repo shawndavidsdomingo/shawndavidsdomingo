@@ -23,7 +23,7 @@ I’m a passionate and dedicated BS Information Technology student at New Era Un
 `Java` `JavaScript` `HTML/CSS` `Node.js`
 
 - **Databases & Tools:**
-`SQL` `DB2` `VS Code` `Figma` `Eclipse` `IntelliJ IDEA`
+`SQL` `DB2` `VS Code` `Figma` `Eclipse` `IntelliJ IDEA` `MongoDB`
 
 - **Systems & Infrastructure:**
 `Computer Systems Servicing` `Network Maintenance`
