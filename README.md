@@ -22,7 +22,8 @@ I’m a passionate and dedicated BS Information Technology student at **New Era 
 - [**OCI AI Foundations Associate (2025)**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0EAAD4BD3408BFC5489B478205B073B0B5665430DC1694BAD13E49D480C8C14) - Oracle  
 - [**National Certificate II in Computer Systems Servicing**](https://shawndavidsdomingo.github.io/shawndavidsdomingo/Files/NC2.pdf) - TESDA  
 - [**Gemini Certified University Student**](https://edu.google.accredible.com/9a8cd621-926a-42f4-813f-e442e0a2b194#acc.zaF0Kogw) - Google  
-- [**NoSQL and DBaaS 101**](http://courses.cognitiveclass.ai/certificates/a486fd044e094661ad5566e555222739) - Cognitive Class  
+- [**NoSQL and DBaaS 101**](http://courses.cognitiveclass.ai/certificates/a486fd044e094661ad5566e555222739) - Cognitive Class
+- [**Claude 101**](https://verify.skilljar.com/c/pdsz8nigwzsq) - Anthropic
 
 ---
 
